@@ -11,7 +11,7 @@ All the tools you need to make your custom Geometry Dash levels.
 10. Close game
 11. Click directory and type cmd
 12. Type node decodeLevels.js
-13. Open the XML file created onto Visual Studio Code
+13. Open the XML file created onto your code editor
 14. Search for the level name
 15. Go to the next s tag and copy all the code between them (not the tag)
 16. Open levelData.plist
